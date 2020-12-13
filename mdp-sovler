@@ -38,9 +38,6 @@ import util
 class MDPAgent(Agent):
     """Use Markov decision process (MDP) to nevigate pacman
     6CCS3AIN Artificial Intelligence Reasoning and Decision Making Coursework
-    Author: Xianzhi Cao           ID: K1919501
-    EMail: xianzhi.cao@kcl.ac.uk
-    Date: 10/Dec/2020
     GitHub: https://github.com/Akira617
     """
     # Constructor: this gets run when we first invoke pacman.py
